@@ -1,2 +1,4 @@
 # hello-world
-just following instrauctions
+just following instructions
+
+Now I can see the light!
